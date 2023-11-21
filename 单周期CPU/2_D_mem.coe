@@ -1,0 +1,4 @@
+;2.asm
+memory_initialization_radix=16;
+memory_initialization_vector=
+00000000, 00005042, 00000318, 00000050, 00000060, 00004200, 00004400;
